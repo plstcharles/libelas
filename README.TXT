@@ -1,3 +1,9 @@
+
+This library has been downloaded from http://www.cvlibs.net/software/libelas/ on
+April 7th, 2017, and should reflect the latest version of the code (2015/06/30).
+
+It is distributed under the GNU General Public License (GPL) v3.
+
 ####################################################################################
 # Copyright 2011. All rights reserved.                                             #
 # Institute of Measurement and Control Systems                                     #
